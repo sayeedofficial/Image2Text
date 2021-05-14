@@ -1,6 +1,6 @@
 # project1
 
-A new Flutter project.
+A new Flutter project that shows AI based Generated Text For The Given Picture.
 
 ## Getting Started
 
